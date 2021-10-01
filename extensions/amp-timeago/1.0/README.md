@@ -48,9 +48,9 @@ import '@ampproject/bento-timeago';
   Saturday 11 April 2017 00.37
 </bento-timeago>
 <div class="buttons" style="margin-top: 8px;">
-  <button id='ar-button'>Change locale to Arabic</button>
-  <button id='en-button'>Change locale to English</button>
-  <button id='now-button'>Change time to now</button>
+  <button id="ar-button">Change locale to Arabic</button>
+  <button id="en-button">Change locale to English</button>
+  <button id="now-button">Change time to now</button>
 </div>
 
 <script>
